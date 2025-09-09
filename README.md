@@ -34,15 +34,16 @@
 ## 🛠️ My Tech Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,react,html,css,vite,mysql,photoshop,vscode" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,react,html,css,vite,mysql,ps,vscode" />
 </p>
+
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahAmir06&theme=onedark&no-frame=true&title=Commit,Repositories,Stars,Issues"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahAmir06&theme=onedark&no-frame=true&title=Commit,Repositories"/>
 </div>
 
 ---
