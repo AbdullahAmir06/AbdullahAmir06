@@ -34,8 +34,9 @@
 ## 🛠️ My Tech Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,react,html,css,vite,mysql,ps,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,react,html,css,vite,mysql,ps,vscode" />
 </p>
+
 
 
 ---
